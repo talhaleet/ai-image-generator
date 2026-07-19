@@ -1,0 +1,32 @@
+# Environment Variables
+Backend/.env
+.env
+
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite Database
+chat_history.db
+
+# ChromaDB Vector Store
+chroma_db/
+
+# Uploaded PDF Temporary Folder
+uploaded_docs/
+
+# Streamlit Config
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
