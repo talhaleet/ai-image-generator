@@ -24,7 +24,7 @@ A simple, clean AI image generator built with **Streamlit** and **Hugging Face**
 ### 1. Install dependencies
 
 ```bash
-pip install streamlit huggingface-hub Pillow
+pip install streamlit huggingface-hub 
 ```
 
 ### 2. Set your Hugging Face API key
@@ -79,4 +79,4 @@ MIT License
 
 ## Author
 
-**Muhammad Talha** — Built HggingFace & Streamlit.
+**Muhammad Talha** — Built using HggingFace & Streamlit.
